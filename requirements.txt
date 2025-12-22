@@ -1,0 +1,20 @@
+# Core LangChain
+langchain
+langchain-community
+
+# Local LLM (Ollama client)
+ollama
+
+# Vector store
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Document loaders
+pypdf
+unstructured
+
+# Utilities (optioneel maar handig)
+python-dotenv
+tqdm
